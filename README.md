@@ -1,6 +1,6 @@
 # Facial Recognition System
 ## 1. Project Overveiw
-This project contains the implementation of Facial Recognition System that identifies people using interpretable machine learning techniques. The System uses techniques like LBP, SIFT, Logistic Regression, Decision Tree, SVM, and k-NN to train the model.
+This project contains the implementation of Facial Recognition System that identifies people using interpretable machine learning techniques. The System uses techniques like LBP, SIFT, Logistic Regression, and Decision Tree to train the model.
 
 ## 2. Objective
 Our core objective is to develop a transparent, and interpretable facial recognition system that performs person identification with high accuracy and also giving insights into why a particular decision is made, making the model more interpretable.
@@ -13,7 +13,7 @@ Our core objective is to develop a transparent, and interpretable facial recogni
 1. Face Detection is done using Haar Cascades.
 2. Feature extraction is done using LBPs, SIFT, and HOGs.
 3. Feature fusion was done for robust representation.
-4. Machine Learning classifiers were used, like, Logistic Regression, Decision Tree, SVM, and k-NN.
+4. Machine Learning classifiers were used, like, Logistic Regression, and Decision Tree.
 5. Interpretability tools like Confusion Matrices, and EDA were also used.
 
 ## 5. How to Run the Project
