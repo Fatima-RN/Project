@@ -7,6 +7,7 @@ Our core objective is to develop a transparent, and interpretable facial recogni
 
 ## 3. Project Structure
 1. **Placing "faces.zip":** Ensure that your zip file, "faces.zip" is present in the same root directory of your project.
+2. **Organize Your Dataset:** Your training data must be organized in a **"faces.zip"** folder, and into subfolders within Dataset/ directory. Each subfolder should represent different person.
 
 ## 4. Features
 1. Face Detection is done using Haar Cascades.
@@ -18,7 +19,7 @@ Our core objective is to develop a transparent, and interpretable facial recogni
 ## 5. How to Run the Project
 1. git clone **Link of github repository**
    cd your-repository-name
-2. Install all required libraries bit **pip install *LIBRARY_NAME***
+2. Install all required libraries using cmd or git bash. Just write **pip install ipykernel opencv-python scikit-image scikit-learn matplotlib numpy pandas Pillow tk**
 3. Place the faces.zip folder in the same folder as your project
 4. Run the notebook
 
